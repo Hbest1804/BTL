@@ -23,32 +23,34 @@
 
 ## 📥 Cài đặt
 
-1. Clone dự án
+1. **Clone dự án về máy:**
 
-```bash
-git clone https://github.com/Hbest1804/BTL
-cd bds-crawler
+   ```bash
+   git clone https://github.com/Hbest1804/BTL
 
- 
- $2.  Tải và cài Google Chrome (nếu chưa có)
+Tải và cài Google Chrome (nếu chưa có):
 
-- Tải tại: [https://www.google.com/chrome/]
-- Cài đặt như phần mềm thông thường.
-$3. Thư viện
+Tải tại: https://www.google.com/chrome/
+
+Cài đặt như phần mềm thông thường.
+
+2.Thư viện:
+
+
+pip install -r requirements.txt
+
+3.Chạy chương trình:
+
+bash
+
 python bds.py
+📂 Kết quả
+Dữ liệu thu thập được sẽ được lưu vào file Excel bds.xlsx.
 
-$4.Chạy chương trình
-python bds.py
+📂 Cấu trúc thư mục
 
-
-$📂. Kết quả
-bds.xlsx
-
-
-
-$. 📂 Cấu trúc thư mục
 BTL/
-├── bds.py               
-├── bds.xlsx             
-├── README.md            
-└── requirements.txt      
+├── bds.py               # Mã nguồn chính của crawler
+├── bds.xlsx             # File Excel lưu kết quả thu thập
+├── README.md            # Tài liệu hướng dẫn cài đặt và sử dụng
+└── requirements.txt      # Các thư viện cần thiết để chạy dự án
