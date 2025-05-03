@@ -51,7 +51,7 @@ Dữ liệu thu thập được sẽ được lưu vào file Excel bds.xlsx.
 
 
 BTL/
-├── bds.py               # Mã nguồn chính của crawler
-├── bds.xlsx             # File Excel lưu kết quả thu thập
-├── README.md            # Tài liệu hướng dẫn cài đặt và sử dụng
-└── requirements.txt      # Các thư viện cần thiết để chạy dự án
+├── bds.py               
+├── bds.xlsx            
+├── README.md            
+└── requirements.txt     
