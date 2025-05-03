@@ -34,7 +34,7 @@ Tải tại: https://www.google.com/chrome/
 
 Cài đặt như phần mềm thông thường.
 
-2.Thư viện:```bash
+2.Thư viện:
 
 pip install -r requirements.txt
 
@@ -42,10 +42,13 @@ pip install -r requirements.txt
 
 python bds.py
 
-📂 Kết quả
+📂 Kết quả:
+
 Dữ liệu thu thập được sẽ được lưu vào file Excel bds.xlsx.
 
-📂 Cấu trúc thư mục
+📂 Cấu trúc thư mục:
+
+
 
 BTL/
 ├── bds.py               # Mã nguồn chính của crawler
