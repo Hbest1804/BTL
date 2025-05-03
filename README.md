@@ -34,16 +34,14 @@ Tải tại: https://www.google.com/chrome/
 
 Cài đặt như phần mềm thông thường.
 
-2.Thư viện:
-
+2.Thư viện:```bash
 
 pip install -r requirements.txt
 
 3.Chạy chương trình:
 
-bash
-
 python bds.py
+
 📂 Kết quả
 Dữ liệu thu thập được sẽ được lưu vào file Excel bds.xlsx.
 
