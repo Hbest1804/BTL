@@ -28,26 +28,25 @@
 ```bash
 git clone https://github.com/Hbest1804/BTL
 cd bds-crawler
+
  
-# 2. Tải và cài Google Chrome (nếu chưa có)
+ $2.  Tải và cài Google Chrome (nếu chưa có)
 
 - Tải tại: [https://www.google.com/chrome/]
 - Cài đặt như phần mềm thông thường.
-
-# 3. Thư viện
+$3. Thư viện
 python bds.py
 
-# 4.Chạy chương trình
+$4.Chạy chương trình
 python bds.py
 
 
-## 📂 Kết quả
+$📂. Kết quả
 bds.xlsx
 
 
 
-## 📂 Cấu trúc thư mục
-
+$. 📂 Cấu trúc thư mục
 BTL/
 ├── bds.py               
 ├── bds.xlsx             
