@@ -104,4 +104,4 @@ print("Đang chờ tới giờ chạy...")
 
 while True:
     schedule.run_pending()
-    time.sleep(2)
+    time.sleep(20)
